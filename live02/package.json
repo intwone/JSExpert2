@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.0",
+    "chalk-table": "^1.0.2",
     "http-server": "^0.12.3"
   }
 }
